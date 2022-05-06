@@ -217,7 +217,7 @@ const LoggedInLayout = ({ children }) => {
             noWrap
             className={classes.title}
           >
-            Chesuite | Automação para Whatsapp
+            Che!Suite | Automação para WhatsApp
           </Typography>
           {user.id && <NotificationsPopOver />}
 
